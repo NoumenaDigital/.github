@@ -7,13 +7,15 @@ This is where we keep all our NPL (NOUMENA Protocol Language) tools and examples
 Need to get up and running quickly? We've got you covered with repos ranging from dead simple to production-ready.
 
 ### [**npl-init**](https://github.com/NoumenaDigital/npl-init)
-The bare-bones starter template that powers `npl init`.
+The bare-bones starter template that powers the `npl init` CLI command.
 
 ### [**npl-demo**](https://github.com/NoumenaDigital/npl-demo)
 This repo is a good starting point to see what NPL can actually do. The repo has a working backend + frontend that shows off the core concepts. Great for understanding how all the pieces fit together.
 
 ### [**npl-frontend-starter**](https://github.com/NoumenaDigital/npl-frontend-starter)
-XYZ
+Simple full-stack NPL application powering the `npl init --frontend` CLI command.
+- Adds a React frontend to the `npl-init` backend
+- Provides configuration files to seamlessly build and deploy the full-stack application locally or to NOUMENA Cloud, with various OIDC provider settings
 
 ### [**npl-integrations**](https://github.com/NoumenaDigital/npl-integrations)
 This repo includes a full-featured starter with:
