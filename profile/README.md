@@ -12,6 +12,9 @@ The bare-bones starter template that powers `npl init`.
 ### [**npl-demo**](https://github.com/NoumenaDigital/npl-demo)
 This repo is a good starting point to see what NPL can actually do. The repo has a working backend + frontend that shows off the core concepts. Great for understanding how all the pieces fit together.
 
+### [**npl-frontend-starter**](https://github.com/NoumenaDigital/npl-frontend-starter)
+XYZ
+
 ### [**npl-integrations**](https://github.com/NoumenaDigital/npl-integrations)
 This repo includes a full-featured starter with:
 - React frontend
