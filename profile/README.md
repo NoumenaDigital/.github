@@ -17,6 +17,9 @@ Simple full-stack NPL application powering the `npl init --frontend` CLI command
 - Adds a React frontend to the `npl-init` backend
 - Provides configuration files to seamlessly build and deploy the full-stack application locally or to NOUMENA Cloud, with various OIDC provider settings
 
+### [**npl-replit-starter**](https://github.com/NoumenaDigital/npl-replit-starter)
+Simple full-stack application configured to be built with Replit, allowing you to experiment with NPL applications directly in your browser and with Replit Agent development support. Involves backend deployment to NOUMENA Cloud.
+
 ### [**npl-integrations**](https://github.com/NoumenaDigital/npl-integrations)
 This repo includes a full-featured starter with:
 - React frontend
