@@ -12,26 +12,18 @@ The bare-bones starter template that powers the `npl init` and `npl init --bare`
 ### [**npl-demo**](https://github.com/NoumenaDigital/npl-demo)
 This repo is a good starting point to see what NPL can actually do. The repo has a working backend + frontend that shows off the core concepts. Great for understanding how all the pieces fit together.
 
-### [**npl-frontend-starter**](https://github.com/NoumenaDigital/npl-frontend-starter)
-Simple full-stack NPL application powering the `npl init --frontend` CLI command.
-- Adds a React frontend to the `npl-init` backend
-- Provides configuration files to seamlessly build and deploy the full-stack application locally or to NOUMENA Cloud, with various OIDC provider settings
 
 ### [**npl-replit-starter**](https://github.com/NoumenaDigital/npl-replit-starter)
 Simple full-stack application configured to be built with Replit, allowing you to experiment with NPL applications directly in your browser and with Replit Agent development support. Involves backend deployment to NOUMENA Cloud.
 
-### [**npl-integrations**](https://github.com/NoumenaDigital/npl-integrations)
-This repo includes a full-featured starter with:
-- React frontend
-- Python Streamlit frontend
-- Python services that listen and react to NPL events
-- Bash integration tests
+https://github.com/NoumenaDigital/noumena-ai-starter
+### [**npl-ai-starter**]([https://github.com/NoumenaDigital/npl-replit-starter](https://github.com/NoumenaDigital/noumena-ai-starter))
+Starter repository that allows you to build full stack applications using your favorite AI leveraging our battle proven technology stack
+* React / Typescript
+* NPL backend
+* Keycloak for authentication
+* docker for the infra provisioning
 
-### [**npl-ai-starter**](https://github.com/NoumenaDigital/npl-ai-starter)
-We built this repo to show AI integration around an insurance claims automation use case that shows:
-- How to hook up an LLM without letting it go rogue
-- Teams & Slack integrations
-- Real guardrails on AI decision-making
 
 ## Developer Tools
 
